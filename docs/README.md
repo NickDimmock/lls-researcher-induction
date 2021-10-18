@@ -1,6 +1,6 @@
-# Researcher Induction: Library & Learning Services
+# LLS Researcher Induction
 
-Links to sites and services featured in the LLS Researcher Induction session.\
+Links from the University of Northampton Library & Learning Services Researcher Induction session.\
 Nick Dimmock ([nick.dimmock@northampton.ac.uk](mailto:nick.dimmock@northampton.ac.uk))
 
 ## Libguides
