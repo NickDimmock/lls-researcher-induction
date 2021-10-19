@@ -15,7 +15,7 @@ Our Libguides homepage is a good starting point for all LLS services.
 - [https://nelson.northampton.ac.uk/](https://nelson.northampton.ac.uk/)
 - Found on the Libguides homepage (or Google ‘NELSON Northampton’).
 
-NELSON is our discovery tool - use it to search electronic and physical resources.
+NELSON is our discovery tool - use it to search electronic and physical resources. [Guides to NELSON](https://skillshub.northampton.ac.uk/nelson/) are available on the Skills Hub.
 
 ?> NELSON will search our subscribed resources by default, which means any electronic results will be immediately available. Use the **Include results without full text** option after searching to include non-subscribed sources.
 
@@ -28,7 +28,7 @@ NELSON is our discovery tool - use it to search electronic and physical resource
 
 Direct access to our subscribed resources and databases. Sometimes these can offer more focused or specialised search tools than NELSON.
 
-?> The list also includes links to services like [Box of Broadcasts](https://login.learningonscreen.ac.uk/) (for recordings of TV programmes) and [EThOS](http://ethos.bl.uk/) (for UK PhD theses).
+?> The list also includes links to services such as [Box of Broadcasts](https://login.learningonscreen.ac.uk/) (for recordings of TV programmes) and [EThOS](http://ethos.bl.uk/) (for UK PhD theses).
 
 ## Library Account
 
@@ -36,6 +36,7 @@ Direct access to our subscribed resources and databases. Sometimes these can off
 - Found on the [Libguides](https://libguides.northampton.ac.uk) homepage.
 
 Information on accessing and using your library account, e.g. to renew or return borrowed items.
+
 ## Interlibrary Loans
 
 - [http://libguides.northampton.ac.uk/ILL](http://libguides.northampton.ac.uk/ILL)
@@ -48,7 +49,7 @@ The Interlibrary Loans team can help you access articles, books and chapters tha
 - [https://skillshub.northampton.ac.uk](https://skillshub.northampton.ac.uk)
 - Found in the [Libguides](https://libguides.northampton.ac.uk) **Students** menu.
 
-A wide variety of written, visual and video guides, tutorials, and reference materials from LLS.
+A collection of written, visual and video guides, tutorials, and reference materials on academic skills from LLS.
 
 ## Research Support
 
