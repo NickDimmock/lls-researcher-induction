@@ -94,7 +94,7 @@ Book tutorials with the Learning Development team, covering a range of academic 
 
 ### Mendeley
 
-- [https://www.mendeley.com/](https://www.zotero.org/)
+- [https://www.mendeley.com/](https://www.mendeley.com/)
 - Click **Create a free account** to get started with Mendeley.
 
 !>  An account is required to use Mendeley. I recommend using your personal email for this.
