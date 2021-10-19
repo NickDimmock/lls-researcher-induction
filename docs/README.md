@@ -19,6 +19,8 @@ NELSON is our discovery tool - use it to search electronic and physical resource
 
 ?> NELSON will search our subscribed resources by default, which means any electronic results will be immediately available. Use the **Include results without full text** option after searching to include non-subscribed sources.
 
+!> It's a good idea to log into NELSON when starting a session - this can make access to articles easier, and will store any bookmarked items to your account.
+
 ## A-Z of Databases
 
 - [https://libguides.northampton.ac.uk/az.php](https://libguides.northampton.ac.uk/az.php)
@@ -28,6 +30,12 @@ Direct access to our subscribed resources and databases. Sometimes these can off
 
 ?> The list also includes links to services like [Box of Broadcasts](https://login.learningonscreen.ac.uk/) (for recordings of TV programmes) and [EThOS](http://ethos.bl.uk/) (for UK PhD theses).
 
+## Library Account
+
+- [https://libguides.northampton.ac.uk/myaccount](https://libguides.northampton.ac.uk/myaccount)
+- Found on the [Libguides](https://libguides.northampton.ac.uk) homepage.
+
+Information on accessing and using your library account, e.g. to renew or return borrowed items.
 ## Interlibrary Loans
 
 - [http://libguides.northampton.ac.uk/ILL](http://libguides.northampton.ac.uk/ILL)
@@ -45,7 +53,7 @@ A wide variety of written, visual and video guides, tutorials, and reference mat
 ## Research Support
 
 - [https://libguides.northampton.ac.uk/research](https://libguides.northampton.ac.uk/research)
-- Found in the [Libguides](https://libguides.northampton.ac.uk) **Researchers** menu.
+- Found on the [Libguides](https://libguides.northampton.ac.uk) homepage and also the **Researchers** menu.
 
 A collection of research support topics and guides for students and staff.
 
