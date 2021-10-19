@@ -13,7 +13,7 @@ Our Libguides homepage is a good starting point for all LLS services.
 ## NELSON
 
 - [https://nelson.northampton.ac.uk/](https://nelson.northampton.ac.uk/)
-- Found on the Libguides homepage (or Google ‘NELSON Northampton’).
+- Found on the [Libguides](https://libguides.northampton.ac.uk) homepage (or Google ‘NELSON Northampton’).
 
 NELSON is our discovery tool - use it to search electronic and physical resources. [Guides to NELSON](https://skillshub.northampton.ac.uk/nelson/) are available on the Skills Hub.
 
